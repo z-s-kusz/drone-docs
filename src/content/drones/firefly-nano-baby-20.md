@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/Layout.astro
 title: Firefly Nano Baby 20
 manufacturer : Flywoo
 price: 300.00
@@ -16,6 +15,8 @@ I wasn't thrilled with the locked, fast speed camera angle at 1st but it's growi
 I modified the 750 battery holder with tape to shrink it to fit my fat RDQ batteries that are too big for the 420 holder.
 
 Best range of any micro I've flown, I think because it has a LHCP antena instead of the linear one that is on most walksnail 1S boards.
+
+---
 
 **Video:**
 Avatar Mini 1S

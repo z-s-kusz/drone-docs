@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/Layout.astro
 title: TinyHawk 3
 manufacturer : Emax
 price: 152
@@ -15,6 +14,9 @@ At one point I experiemneted with shaving wieght off of the canopy to the point 
 My biggest takeaway from this drone was that indoor flying is fun but analog video is so bad I'm not sure how this hobby survived purely analgo for so long.
 
 I almost never fly it now, it is my only 1S that uses the old PH2.0 connection.
+
+---
+
 **Video:**
 analog - RunCam Nano 4
 25-100-200mw Switchable 37CH w/ Smart Audio.

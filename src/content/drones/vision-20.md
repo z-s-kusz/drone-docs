@@ -1,6 +1,4 @@
 ---
-layout: ../../layouts/Layout.astro
-
 title: Vision40 (2S)
 manufacturer : Rotor Riot
 price: 304.00
@@ -22,6 +20,8 @@ That's something I would test if I didn't know it would be a worse version of th
 I think I was getting about 5 minute flights when my batteries were new.
 
 It's been a long time since I've flown this little guy, probobly have to update the walksnail firmware now.
+
+---
 
 **Video**
 Avatar Mini 1S Lite HD VTX?

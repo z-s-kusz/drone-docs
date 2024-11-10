@@ -1,9 +1,7 @@
 ---
-layout: ../../layouts/Layout.astro
 title: Meteor 75 Pro
 manufacturer : BetaFPV
 price: 230.00
-sku: '21059 according to getfpv.com'
 ---
 
 ## BetaFPV Meteor 75 Pro
@@ -19,10 +17,13 @@ averaging about 4:15 on my freshest batch of
 the recomendded BetaFPV 550mAh batteries but plenty long for a micro 1s drone.
 My older batteries get about 3:30 in flight time.
 
+---
 
 **!One Issue!**
 Back left motor sometimes doesn't want to start. Drone seems to fly well once it does take off but I have to arm and disarm the drone a lot.
 I think the motor and esc *do* work - when I connect it to betaflight it responds to all motot commands.
+
+---
 
 **Video:**
 Walksnail Avatar HD Mini 1S Lite Kit

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/Layout.astro
 title: GoFilm 20
 manufacturer : CaddX FPV
 price: 400.00
@@ -15,6 +14,8 @@ Though it might not sound like it, I'm overall happy with the drone. But I do ha
 and didn't come with extras to replace them so I have 3 motors missing a mounting screw.
 
 The caddx site has an amazing table of info for this drone so I'm just going to paste it here.
+
+---
 
 <table width="100%" style="width: 100%; height: 960px;" data-mce-style="width: 100%; height: 960px;">
 <tbody>
